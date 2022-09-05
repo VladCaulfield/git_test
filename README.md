@@ -1,2 +1,3 @@
-# git_test
-It's a test reprository how work with git
+# Git and github course
+
+Crash cource for git
